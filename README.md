@@ -2,10 +2,10 @@
 - age: 25
 - born in: Gabrovo City/Bulgaria
 - working history: 
-4 years like employee of graphic laser,
-3 years like Jet-Ski instruktor,
-1 year like snowboard instructor,
-at the moment in one of the Leading Logistic company in Bulgaria like Office Administrator
+>4 years like employee of graphic laser,
+>>3 years like Jet-Ski instruktor,
+>>>1 year like snowboard instructor,
+>>>>at the moment in one of the Leading Logistic company in Bulgaria like Office Administrator
 - education: 
 middle school finished in 2015,
 Softuni courses
