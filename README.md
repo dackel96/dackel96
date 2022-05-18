@@ -8,7 +8,7 @@
 >>>>at the moment in one of the Leading Logistic company in Bulgaria like Office Administrator
 - education: 
 middle school finished in 2015,
-Softuni courses
+>Softuni courses
  =>
  >Programig Basics - Passed 100/100,
  >>C# Fundamentals - Passed 100/100,
