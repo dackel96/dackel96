@@ -1,4 +1,4 @@
-- name: IVAN ILIEV
+-> name: IVAN ILIEV
 - age: 25
 - born in: Gabrovo City/Bulgaria
 - working history: 
