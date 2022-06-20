@@ -30,7 +30,7 @@
 
 [<img align="left" alt="boretobg | Instagram" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />][instagram]
 [<img align="left" alt="boretobg | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" />][facebook]
-[<img align="left" alt="boretobg | Youtube" width="22px" src="http://www.w3.org/2000/svg" />][youtube]
+[<img align="left" alt="boretobg | #5865F2 />][youtube]
 
 
 [facebook]: https://www.facebook.com/dackel96/
