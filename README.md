@@ -30,7 +30,7 @@
 
 [<img align="left" alt="dackel | Instagram" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />][instagram]
 [<img align="left" alt="dackel | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" />][facebook]
-[<img align="left" alt="dackel | Discord" width="22px" src="https://wallpaperaccess.com/full/5578381.jpg" />][discord]
+[<img align="left" alt="dackel | Discord" width="22px" src="https://flyclipart.com/thumb2/discord-runegroup-704006.png" />][discord]
 
 
 [facebook]: https://www.facebook.com/dackel96/
