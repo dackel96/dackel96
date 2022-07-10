@@ -35,4 +35,4 @@
 
 [facebook]: https://www.facebook.com/dackel96/
 [instagram]: https://www.instagram.com/d.a.c.k.e.l/
-[discord]: dackel#3379
+[discord]: https://discord.com/connections/github?code=c4fdf76292c23b7a7411&state=0407fd623e355c8f09e48434a31c4f5a
