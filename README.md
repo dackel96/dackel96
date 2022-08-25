@@ -25,6 +25,9 @@
      <tr>
          <td><a href="https://softuni.bg/certificates/details/134866/35fb790a">✔️  MS SQL - May 2022</a>  </td>
      </tr>
+     <tr>
+         <td><a href="https://softuni.bg/certificates/details/141242/9d1555d5">✔️ Entity Framework Core - June 2022</a></td>
+     </tr>
  </table> 
 ### Connect with me here:
 
