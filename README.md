@@ -40,4 +40,4 @@
 
 [facebook]: https://www.facebook.com/dackel96/
 [instagram]: https://www.instagram.com/d.a.c.k.e.l/
-[discord]: https://discordapp.com/users/888728460552462367
+[discord]: https://discor.......dapp.com/users/888728460552462367
