@@ -38,6 +38,6 @@
 [<img align="left" alt="dackel | Discord" width="23px" src="https://www.skittercomic.com/wp-content/uploads/2019/05/discord-logo-1024x1024.png" />][discord]
 
 
-[facebook]: https://www.facebook.com/dackel96/
-[instagram]: https://www.instagram.com/d.a.c.k.e.l/
-[discord]: https://discordapp.com/users/888728460552462367
+[facebook]: https://www.facebook.com/dackel96/ {:target="_blank" rel="noopener"}
+[instagram]: https://www.instagram.com/d.a.c.k.e.l/ {:target="_blank" rel="noopener"}
+[discord]: https://discordapp.com/users/888728460552462367 {:target="_blank" rel="noopener"}
