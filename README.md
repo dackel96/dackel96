@@ -31,5 +31,5 @@
  </table> 
 ### Connect with me here:
 
-<a href=https://www.facebook.com/dackel96/><img align="left" alt="dackel | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" /></a>
+<a href=https://www.facebook.com/dackel96/ target="_blank"><img align="left" alt="dackel | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" /></a>
 
