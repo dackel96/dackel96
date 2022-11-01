@@ -12,21 +12,18 @@
      </tr>
      <tr>
          <td> <a href="https://softuni.bg/certificates/details/112108/25397a08">✔️  C# Programming Basics - July 2021</a> </td>
-     </tr>
-     <tr>
          <td> <a href="https://softuni.bg/certificates/details/121749/5039beae">✔️  C# Fundamentals - September 2021</a> </td>
      </tr>
      <tr> 
          <td> <a href="https://softuni.bg/certificates/details/123699/5aacc7dc">✔️  C# Advanced - January 2022</a>  </td>
-     </tr>
-     <tr>
          <td> <a href="https://softuni.bg/certificates/details/131039/1d962d5d">✔️  C# OOP - February 2022</a> </td>
      </tr>
      <tr>
          <td><a href="https://softuni.bg/certificates/details/134866/35fb790a">✔️  MS SQL - May 2022</a>  </td>
+         <td><a href="https://softuni.bg/certificates/details/141242/9d1555d5">✔️ Entity Framework Core - June 2022</a></td>
      </tr>
      <tr>
-         <td><a href="https://softuni.bg/certificates/details/141242/9d1555d5">✔️ Entity Framework Core - June 2022</a></td>
+         
      </tr>
  </table> 
 ### Connect with me here:
