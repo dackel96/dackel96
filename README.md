@@ -23,7 +23,7 @@
          <td><a href="https://softuni.bg/certificates/details/141242/9d1555d5">✔️ Entity Framework Core - June 2022</a></td>
      </tr>
      <tr>
-         
+         <td> <a href="https://softuni.bg/certificates/details/146585/3a750a04">✔️ ASP.NET Fundamentals - September 2022</a></td>
      </tr>
  </table> 
 ### Connect with me here:
