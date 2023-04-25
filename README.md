@@ -5,7 +5,7 @@
   >4 years like employee of graphic laser,
   >>3 years like Jet-Ski instruktor,
   >>>1 year like snowboard instructor,
-  >>>>at the moment in one of the Leading Logistic company in Bulgaria like Manager Office
+  >>>>1 year like Manager Office at Econt Express (logistic company)
 <table style="float: left;">
     <tr>
          <th colspan="2"> <a href="https://softuni.bg/users/profile/certificates?username=dackel96"> 📜Certificates📜</th>
