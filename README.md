@@ -26,6 +26,10 @@
          <td> <a href="https://softuni.bg/certificates/details/146585/3a750a04">✔️ ASP.NET Fundamentals - September 2022</a></td>
          <td> <a href="https://softuni.bg/certificates/details/152320/488976b6">✔️ ASP.NET Advanced - October 2022</a></td>
      </tr>
+  <tr>
+         <td> <a href="https://softuni.bg/certificates/details/163136/0917538a">✔️ HTML & CSS - January 2023</a></td>
+         <td> <a href="https://softuni.bg/certificates/details/170778/e5bfdcc1">✔️ JS Front-End - February 2023</a></td>
+     </tr>
  </table> 
 ### Connect with me here:
 
