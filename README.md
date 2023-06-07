@@ -1,11 +1,8 @@
 - >name: IVAN ILIEV
-- >age: 26
+- >age: 27
 - >born in: Gabrovo City/Bulgaria
-- >working history: 
-  >4 years like employee of graphic laser,
-  >>3 years like Jet-Ski instruktor,
-  >>>1 year like snowboard instructor,
-  >>>>1 year like Manager Office at Econt Express (logistic company)
+- technologies:
+- <C#>,<ASP.Net>,<Entity Framework>,<JS>,<HTML>,<CSS>,<React>,<SQL>
 <table style="float: left;">
     <tr>
          <th colspan="2"> <a href="https://softuni.bg/users/profile/certificates?username=dackel96"> 📜Certificates📜</th>
