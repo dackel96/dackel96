@@ -2,14 +2,14 @@
 - >age: 27
 - >born in: Gabrovo City/Bulgaria
 - technologies:
-- <C#>
-<ASP.Net>
-<Entity Framework>
-    <JS>
-        <HTML>
-            <CSS>
-                <React>
-                    <SQL>
+- C#
+ASP.Net
+Entity Framework
+    JS
+        HTML
+            CSS
+                React
+                    SQL
 <table style="float: left;">
     <tr>
          <th colspan="2"> <a href="https://softuni.bg/users/profile/certificates?username=dackel96"> 📜Certificates📜</th>
