@@ -1,7 +1,10 @@
-- >name: IVAN ILIEV
-- >age: 27
-- >born in: Gabrovo City/Bulgaria
-- technologies:
+- >name: 
+- IVAN ILIEV
+- >age: 
+- 27
+- >born in: 
+- Gabrovo City/Bulgaria
+- >technologies:
 - C#
 - ASP.Net
 - Entity Framework
