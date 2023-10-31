@@ -26,7 +26,7 @@
 ### Connect with me here:
 
 
-[<img align="left" alt="dackel | LinkedIn" width="22px" src="[https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png](https://png.pngtree.com/element_our/sm/20180518/sm_5aff6082b4449.png)" />][linkedin]
+[<img align="left" alt="dackel | LinkedIn" width="22px" src="https://e1.pngegg.com/pngimages/369/767/png-clipart-somacro-45-300dpi-social-media-icons-linkedin-linked-in-logo.png" />][linkedin]
 [<img align="left" alt="dackel | Instagram" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />][instagram]
 [<img align="left" alt="dackel | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" />][facebook]
 [<img align="left" alt="dackel | Discord" width="23px" src="https://www.skittercomic.com/wp-content/uploads/2019/05/discord-logo-1024x1024.png" />][discord]
