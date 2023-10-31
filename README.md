@@ -41,10 +41,6 @@ I am a software engineer with a passion for building innovative and user-friendl
 
 I am currently looking for new opportunities to use my skills and experience to make a positive impact on the world. I am particularly interested in working on projects.
 
-**[GitHub Stats]**
-| <a href="https://github.com/dackel96/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dackel96&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="dackel's github stats" /></a> | <a href="https://github.com/dackel96/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dackel96&layout=compact&theme=dark&hide_border=true" /></a> |
-| ------------- | ------------- |
-
 🎓 **[Education]**
 <table style="float: left;">
     <tr>
@@ -70,7 +66,11 @@ I am currently looking for new opportunities to use my skills and experience to 
          <td> <a href="https://softuni.bg/certificates/details/163136/0917538a">✔️ HTML & CSS - January 2023</a></td>
          <td> <a href="https://softuni.bg/certificates/details/170778/e5bfdcc1">✔️ JS Front-End - February 2023</a></td>
      </tr>
- </table> 
+ </table>
+ 
+**[GitHub Stats]**
+| <a href="https://github.com/dackel96/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dackel96&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="dackel's github stats" /></a> | <a href="https://github.com/dackel96/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dackel96&layout=compact&theme=dark&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 **[Connect with me here]**
              
