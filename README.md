@@ -8,7 +8,7 @@ I am currently looking for new opportunities to use my skills and experience to 
 
 ![GitHub Readme Stats](https://github-readme-stats.vercel.app/api/top-langs?username=dackel96&theme=dark)
 
-![GitHub Readme Tech Stack](https://github-readme-tech-stack.vercel.app/api/card?techStacks=Python,JavaScript,React,AWS)
+![C#, JavaScript, .NetCore, React](https://badge4-readme.md-profile.vercel.app/api/tech-stack?techStacks=C#,JavaScript,React,.NetCore)
 
 **[Here are mine Certificates]**
 <table style="float: left;">
