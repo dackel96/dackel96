@@ -31,9 +31,7 @@ I am currently looking for new opportunities to use my skills and experience to 
      </tr>
  </table> 
 ![GitHub Readme Stats](https://github-readme-stats.vercel.app/api/top-langs?username=[dackel96])
-### Connect with me here:
-
-
+**[Connect with me here]**
 [<img align="left" alt="dackel | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" />][linkedin]
 [<img align="left" alt="dackel | Instagram" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />][instagram]
 [<img align="left" alt="dackel | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" />][facebook]
