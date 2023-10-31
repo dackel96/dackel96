@@ -1,10 +1,10 @@
 **[Ivan Iliev], Full-Stack Web Developer**
 
-I am a software engineer with a passion for building innovative and user-friendly software. I have experience in a variety of programming languages and frameworks, including C#, HTML/CSS/JS,TypeScript .NET Core,React,SQL,MongoDB.
+I am a software engineer with a passion for building innovative and user-friendly software. I have experience in a variety of programming languages and frameworks, including C#, HTML/CSS/JS,TypeScript, .NET Core,React,SQL,MongoDB.
 
 I am currently looking for new opportunities to use my skills and experience to make a positive impact on the world. I am particularly interested in working on projects.
 
-
+[Here are mine Certificates]
 <table style="float: left;">
     <tr>
          <th colspan="2"> <a href="https://softuni.bg/users/profile/certificates?username=dackel96"> 📜Certificates📜</th>
@@ -30,6 +30,7 @@ I am currently looking for new opportunities to use my skills and experience to 
          <td> <a href="https://softuni.bg/certificates/details/170778/e5bfdcc1">✔️ JS Front-End - February 2023</a></td>
      </tr>
  </table> 
+             ![GitHub Readme Stats](https://github-readme-stats.vercel.app/api/top-langs?username=[your username])
 ### Connect with me here:
 
 
