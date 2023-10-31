@@ -6,7 +6,7 @@ I am a software engineer with a passion for building innovative and user-friendl
 
 I am currently looking for new opportunities to use my skills and experience to make a positive impact on the world. I am particularly interested in working on projects.
 
-![GitHub Readme Stats](https://github-readme-stats.vercel.app/api/top-langs?username=dackel96)
+![GitHub Readme Stats](https://github-readme-stats.vercel.app/api/top-langs?username=dackel96&theme=dark)
 
 **[Here are mine Certificates]**
 <table style="float: left;">
