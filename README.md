@@ -31,7 +31,7 @@
 [<img align="left" alt="dackel | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" />][facebook]
 [<img align="left" alt="dackel | Discord" width="23px" src="https://www.skittercomic.com/wp-content/uploads/2019/05/discord-logo-1024x1024.png" />][discord]
 
-[linkedin]: www.linkedin.com/in/ivan-iliev-92a550237
+[linkedin]: https://linkedin.com/in/ivan-iliev-92a550237
 [facebook]: https://www.facebook.com/dackel96/
 [instagram]: https://www.instagram.com/d.a.c.k.e.l/
 [discord]: https://discordapp.com/users/888728460552462367
