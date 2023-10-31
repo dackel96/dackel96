@@ -70,8 +70,9 @@ I am currently looking for new opportunities to use my skills and experience to 
            
  **[Projects]**
 
+*[Project with which I graduated from SoftUni]*
  <a href="https://github.com/dackel96/ShuInkWeb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dackel96&repo=ShuInkWeb&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dackel96&repo=ShuInkWeb&theme=dark" />
 </a>
  
 **[GitHub Stats]**
