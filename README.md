@@ -5,7 +5,8 @@
 I am a software engineer with a passion for building innovative and user-friendly software. I have experience in a variety of programming languages and frameworks.
 
 💻 **[Languages and Tools]** 🛠️<br>
-💾 *[Databases]*
+
+💾 *[Databases]* <br>
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
