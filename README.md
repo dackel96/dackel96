@@ -1,3 +1,10 @@
+**[Ivan Iliev], Full-Stack Web Developer**
+
+I am a software engineer with a passion for building innovative and user-friendly software. I have experience in a variety of programming languages and frameworks, including C#, HTML/CSS/JS,TypeScript .NET Core,React,SQL,MongoDB.
+
+I am currently looking for new opportunities to use my skills and experience to make a positive impact on the world. I am particularly interested in working on projects.
+
+
 <table style="float: left;">
     <tr>
          <th colspan="2"> <a href="https://softuni.bg/users/profile/certificates?username=dackel96"> 📜Certificates📜</th>
