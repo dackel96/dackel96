@@ -48,7 +48,3 @@ I am currently looking for new opportunities to use my skills and experience to 
 [facebook]: https://www.facebook.com/dackel96/
 [instagram]: https://www.instagram.com/d.a.c.k.e.l/
 [discord]: https://discordapp.com/users/888728460552462367
-
-
-| [linkedin]: https://linkedin.com/in/ivan-iliev-92a550237 | [facebook]: https://www.facebook.com/dackel96/ |
-| ------------- | ------------- |
