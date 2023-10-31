@@ -6,7 +6,7 @@ I am a software engineer with a passion for building innovative and user-friendl
 
 💻 **[Languages and Tools]** 🛠️<br>
 
-💾 *[Databases]* <br
+💾 *[Databases]* <br>
                     
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
