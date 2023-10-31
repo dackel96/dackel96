@@ -6,9 +6,8 @@ I am a software engineer with a passion for building innovative and user-friendl
 
 I am currently looking for new opportunities to use my skills and experience to make a positive impact on the world. I am particularly interested in working on projects.
 
-![GitHub Readme Stats](https://github-readme-stats.vercel.app/api/top-langs?username=dackel96&theme=dark)
-
-| <a href="https://github.com/dackel96/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dackel96&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="dackel's github stats" /></a> | <a href="https://github.com/dackel96/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dackel96&layout=compact&theme=dark&hide_border=true" /></a> |
+![GitHub Readme Stats]
+| <a href="https://github.com/dackel96/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dackel96&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="dackel's github stats" /></a> | <a href="https://github.com/dackel96/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dackel96&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 **[Here are mine Certificates]**
