@@ -4,7 +4,7 @@ I am a software engineer with a passion for building innovative and user-friendl
 
 I am currently looking for new opportunities to use my skills and experience to make a positive impact on the world. I am particularly interested in working on projects.
 
-[Here are mine Certificates]
+**[Here are mine Certificates]**
 <table style="float: left;">
     <tr>
          <th colspan="2"> <a href="https://softuni.bg/users/profile/certificates?username=dackel96"> 📜Certificates📜</th>
