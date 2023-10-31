@@ -30,7 +30,7 @@ I am currently looking for new opportunities to use my skills and experience to 
          <td> <a href="https://softuni.bg/certificates/details/170778/e5bfdcc1">✔️ JS Front-End - February 2023</a></td>
      </tr>
  </table> 
-             ![GitHub Readme Stats](https://github-readme-stats.vercel.app/api/top-langs?username=[your username])
+![GitHub Readme Stats](https://github-readme-stats.vercel.app/api/top-langs?username=[dackel96])
 ### Connect with me here:
 
 
